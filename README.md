@@ -614,12 +614,8 @@ POST /api/v1/tags/
 
 ---
 
-## 📸 Screenshots
-
 ### 1. Dashboard Overview
-> **Coming Soon**: Add screenshot of admin dashboard
 ```
-[  Dashboard Screenshot Placeholder  ]
 - Shows statistics: Total posts, users, categories
 - Recent activity feed
 - Quick action buttons
@@ -628,9 +624,7 @@ POST /api/v1/tags/
 ---
 
 ### 2. Blog Post List
-> **Coming Soon**: Add screenshot of post listing
 ```
-[  Post List Screenshot Placeholder  ]
 - Table/grid view of all blog posts
 - Filter and search functionality
 - Status indicators (draft/published)
@@ -640,9 +634,7 @@ POST /api/v1/tags/
 ---
 
 ### 3. Create/Edit Post Interface
-> **Coming Soon**: Add screenshot of post editor
 ```
-[  Post Editor Screenshot Placeholder  ]
 - Rich text editor
 - Category and tag selection
 - Image upload
@@ -652,9 +644,7 @@ POST /api/v1/tags/
 ---
 
 ### 4. User Management (Admin)
-> **Coming Soon**: Add screenshot of user management
 ```
-[  User Management Screenshot Placeholder  ]
 - User list with roles
 - Add/edit user interface
 - Role assignment dropdown
@@ -663,9 +653,7 @@ POST /api/v1/tags/
 ---
 
 ### 5. API Response (Postman)
-> **Coming Soon**: Add screenshot of Postman API testing
 ```
-[  Postman Screenshot Placeholder  ]
 - GET request to /api/v1/posts/
 - JSON response with post data
 - Headers showing JWT token
@@ -921,12 +909,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📞 Contact
 
 **Niha Ruksar**
@@ -949,8 +931,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-### ⭐ If you found this project helpful, please give it a star!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
