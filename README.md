@@ -31,12 +31,10 @@
 - [Database Schema](#-database-schema)
 - [Installation](#-installation)
 - [API Documentation](#-api-documentation)
-- [Screenshots](#-screenshots)
 - [Role-Based Access Control](#-role-based-access-control)
 - [Security Features](#-security-features)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 
 ---
